@@ -93,11 +93,20 @@ a{
     color: rgba(96, 96, 96, 1);
 }
 
+
+
+.nav-button{
+    display: none;
+    cursor: pointer;
+}
+
 .header-row{
     display: flex;
     justify-content: space-between;
     column-gap: 30px;
 }
+
+
 
 
 
