@@ -141,11 +141,16 @@ a{
     display: flex;
     column-gap: 30px;
     justify-content: center;;
+    row-gap: 60px;
+    flex-wrap: wrap;
 }
 
 
 
-.service-card{}
+.service-card{
+     flex: 1 1 0;
+     min-width: 315px;
+}
 
 
 
