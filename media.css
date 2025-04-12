@@ -78,6 +78,12 @@
         font-size: 34px;
     }
 
+
+ .hero{
+    width: 296px;
+ }
+
+
     .content-heading span{
         font-size: 28px;
     }
@@ -85,6 +91,7 @@
     .services{
         padding: 60px 0px;
     }
+
 
 
     .portfolio{
@@ -97,6 +104,7 @@
 
     .project-img{
         margin-bottom: 30px;
+        width: 315px;
     }
 
     .project + .project{
